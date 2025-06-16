@@ -1,6 +1,6 @@
 print("Welcome to Sajha Yatayat")
 print("We provide the best deals of bus travels in Nepal. So, where do you want to go this vacation")
-print("The followinf routes from Kathmandu are as folows:")
+print("The followingroutes from Kathmandu are as folows:")
 print("1. Butwal = Rs 800")
 print("2. Pokhara = Rs 700")
 print("3. Chitwan = Rs 600")
